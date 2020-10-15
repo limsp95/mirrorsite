@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.image-line.com	TRUE	/	FALSE	1999999999	__cfduid	d4039e82eb23c353cdd0e2327d53866171602781500
+www.image-line.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	daeb47bb8285a359b97ae58ee067b80671602781530
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.collectiondx.com	TRUE	/	FALSE	1999999999	SESS394d2ac70ff11177f0f23351b388fb6e	8pf3gtnvj6tkbncn5achp8g640
+
